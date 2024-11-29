@@ -4,7 +4,7 @@
 ---
 
 🌟 **About Me:**  
-I'm a passionate software engineer with [X] years of experience in building efficient, scalable, and user-friendly applications. My expertise spans across [list key areas, e.g., full-stack development, cloud computing, data engineering], and I love contributing to open-source projects that make a real impact.  
+I'm a passionate software engineer with 5-6 years of experience in building efficient, scalable, and user-friendly applications. My expertise spans across [list key areas, e.g., full-stack development, cloud computing, data engineering], and I love contributing to open-source projects that make a real impact.  
 
 ---
 
