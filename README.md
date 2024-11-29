@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi there! I'm Sebastian Fromm 
+💻 **Software Engineer | Open Source Enthusiast | Lifelong Learner**
 
-<!--
-**DevVenturex/DevVenturex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 **About Me:**  
+I'm a passionate software engineer with [X] years of experience in building efficient, scalable, and user-friendly applications. My expertise spans across [list key areas, e.g., full-stack development, cloud computing, data engineering], and I love contributing to open-source projects that make a real impact.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 **Tech Stack:**  
+- **Languages:** Rust, C++, Java 
+- **Tools/Platforms:** Linux, Docker
+- **Databases:** PostgreSQL, MySQL
+
+---
+
+🚀 **What I’m Working On:**  
+- Building a Little Compiler with Rust.    
+
+---
+
+🌱 **What I’m Learning:**  
+Currently exploring Compiler Development to broaden my expertise and stay ahead in tech innovation.  
+
+---
+
+📫 **Let’s Connect:**  
+- LinkedIn: [Your LinkedIn Profile Link]  
+- Portfolio: [Your Portfolio Website]  
+- Twitter: [Your Twitter Handle (Optional)]  
+
+---
+
+⭐ **Fun Fact:** When I'm not coding, you'll find me in most cases on my Drum Set.
+
+---
+
+💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
