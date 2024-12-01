@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sebastian Fromm
 
 [![GitHub followers](https://img.shields.io/github/followers/devventurex?label=Follow%20Me&style=social)](https://github.com/devventurex) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-orange)](https://devventurex.github.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-orange)](https://devventurex.github.io)  
 
 ---
 
@@ -61,7 +61,7 @@ I am a **[Your Profession/Role]**, passionate about building high-performance ap
 ### 🌐 Connect with Me  
 
 - [LinkedIn](https://linkedin.com/in/yourusername)  
-- [Portfolio](https://devventurex.github.com)  
+- [Portfolio](https://devventurex.github.io)  
 - [Email](mailto:dev.venturex@gmail.com)
 
 ---
