@@ -1,8 +1,7 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Sebastian Fromm
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-orange)](https://yourportfolio.com)  
+[![GitHub followers](https://img.shields.io/github/followers/devventurex?label=Follow%20Me&style=social)](https://github.com/devventurex) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-orange)](https://devventurex.github.com)  
 
 ---
 
@@ -40,9 +39,9 @@ I am a **[Your Profession/Role]**, passionate about building high-performance ap
 
 <div align="center">
   
-[![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)](https://github.com/yourusername)  
+[![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devventurex&show_icons=true&hide_border=true&theme=radical)](https://github.com/devventurex)  
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical)](https://github.com/yourusername)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devventurex&layout=compact&hide_border=true&theme=radical)](https://github.com/devventurex)  
   
 </div>
 
@@ -62,8 +61,8 @@ I am a **[Your Profession/Role]**, passionate about building high-performance ap
 ### 🌐 Connect with Me  
 
 - [LinkedIn](https://linkedin.com/in/yourusername)  
-- [Portfolio](https://yourportfolio.com)  
-- [Email](mailto:youremail@example.com)
+- [Portfolio](https://devventurex.github.com)  
+- [Email](mailto:dev.venturex@gmail.com)
 
 ---
 
