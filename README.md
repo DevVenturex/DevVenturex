@@ -7,12 +7,11 @@
 
 ### 🚀 About Me  
 
-I am a **[Your Profession/Role]**, passionate about building high-performance applications and working on cutting-edge technologies. My expertise lies in **system-level programming**, **graphics development**, and **cross-platform application design**. I enjoy exploring the intersection of technology and creativity.  
+I am a **Developer**, passionate about building high-performance applications and working on cutting-edge technologies. My expertise lies in **system-level programming**, **graphics development**, and **cross-platform application design**. I enjoy exploring the intersection of technology and creativity.  
 
-- 🌱 Currently learning: **[Technology or Skill, e.g., "3D Game Engines", "Parallel Computing"]**  
+- 🌱 Currently working on: **3D Game Engine in Rust**  
 - 👯 Looking to collaborate on: **[Open Source Projects / Game Engines / Graphics Frameworks]**  
-- 💬 Ask me about: **System Programming, Cross-Platform Development, Graphics Programming**  
-- 🎯 Fun fact: **[Something Interesting About You]**
+- 🎯 Fun fact: **I dont know**
 
 ---
 
@@ -20,11 +19,9 @@ I am a **[Your Profession/Role]**, passionate about building high-performance ap
 
 #### Languages  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 #### Frameworks & Libraries  
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)  
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)  
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)  
 
@@ -50,17 +47,11 @@ I am a **[Your Profession/Role]**, passionate about building high-performance ap
 ### 🌟 Projects  
 
 #### 📌 Featured Projects  
-- **[Project Name](https://github.com/yourusername/project)**: Short description of the project  
-- **[Project Name](https://github.com/yourusername/project)**: Short description of the project  
-
-#### 🔭 Open Source Contributions  
-- **[Repository Name](https://github.com/opensourceproject)**: Description of your contribution  
-
+- **[Game-Engine](https://github.com/devventurex/project)**: Short description of the project
+  
 ---
 
 ### 🌐 Connect with Me  
-
-- [LinkedIn](https://linkedin.com/in/yourusername)  
 - [Portfolio](https://devventurex.github.io)  
 - [Email](mailto:dev.venturex@gmail.com)
 
