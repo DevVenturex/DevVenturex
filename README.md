@@ -19,4 +19,7 @@ Currently I'm doing an apprenticeship as a Software Developer in Germany.
 - 🍿 I Love Science Fiction movies
 - 🎞️ I do not like watching Series
 
+### 📫 Connect with me
+- Email: dev.venturex@gmail.com
+
 Thanks for visiting my profile! ✨
