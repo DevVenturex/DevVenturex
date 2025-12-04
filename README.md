@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I'm **Sebastian** — a passionate learner and developer who enjoys building projects and exploring new tech.
+
 Currently I'm doing an apprenticeship as a Software Developer in Germany.
 
 ### 🌱 What I'm learning
@@ -13,7 +14,7 @@ Currently I'm doing an apprenticeship as a Software Developer in Germany.
 - Linux
 - OpenGL
 
-### A Bit About Me
+### 👤 A Bit About Me
 - 🥁 I play the Drums for almost 15 years
 - 🍿 I Love Science Fiction movies
 - 🎞️ I do not like watching Series
