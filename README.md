@@ -12,7 +12,6 @@ Currently I'm doing an apprenticeship as a Software Developer in Germany.
 - C++ / Rust
 - Git & GitHub
 - Linux
-- OpenGL
 
 ### 👤 A Bit About Me
 - 🥁 I play the Drums for almost 15 years
